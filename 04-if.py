@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+
 text = 'gweukfhwukfhi2fbookref'
 KEY = 'book'
 
